@@ -80,7 +80,7 @@ body {
 @media only screen and (max-width391px) {
   .logo {
     position: absolute;
-    top: 85%;
+    top: 70%;
     letter-spacing: 1px;
   }
 }
